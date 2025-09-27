@@ -7,15 +7,21 @@ Este repositório foi criado para **documentar minha evolução e prática com G
 
 ---
 
-## 📌 Comandos Git Essenciais  
+## 📌 Colinha de Comandos Git Essenciais  
 
 | Comando | Função |
-|---------|--------|
+|--------|--------|
 | `git init` | Inicializa um novo repositório Git na pasta atual |
 | `git status` | Mostra o estado atual dos arquivos (rastreados, não rastreados, modificados) |
 | `git add .` | Adiciona todos os arquivos modificados para a staging area |
 | `git commit -m "mensagem"` | Cria um commit com a mensagem informada |
 | `git log` | Exibe o histórico de commits do repositório |
+| `git clone <url>` | Clona um repositório remoto para sua máquina local |
+| `git push` | Envia os commits locais para o repositório remoto |
+| `git pull` | Baixa e integra as alterações do repositório remoto |
+| `git branch` | Lista as branches existentes ou cria uma nova (com `git branch <nome>`) |
+| `git checkout <branch>` | Alterna para a branch especificada |
+
 
 ---
 
